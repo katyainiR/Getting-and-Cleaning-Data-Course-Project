@@ -1,0 +1,3 @@
+ Merged - The final dataset with merged test and train datasets
+ Part_2 - the data frame with means and standard deviations of each measurement
+ tidy_data - the final data.frame that contains the desired tidy data values with all the characteristic properties.
