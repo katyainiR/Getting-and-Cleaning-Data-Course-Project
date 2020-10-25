@@ -6,3 +6,6 @@
 # Step 5: Assigning descriptive activity names as per the info given. Using property of factor levels. (line 24:26)
 # Step 6: Storing means and standard deviation (matrixStats library function) into a dataframe by the name Part-2 (line 29:36)
 # Step 7: Using summarise function and group_by function to attain the desired "Tidy_dataset" (line 38:39)
+
+
+## The line references are to the script stored as 'main'
